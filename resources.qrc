@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cap/cap.png</file>
+        <file>res/cap/cap1.png</file>
+        <file>res/cap/cap2.png</file>
+        <file>res/cap/cap3.png</file>
+        <file>res/menu/gameover0.png</file>
+        <file>res/monsters/bat1.png</file>
+        <file>res/rocket/rleft.png</file>
+        <file>res/rocket/rocket.png</file>
+        <file>res/rocket/rrightbig.png</file>
+        <file>res/atlas.png</file>
+        <file>res/atlas2.png.jpg</file>
+        <file>res/atlas3.png.jpg</file>
+        <file>res/atlas3.png 2.jpg</file>
+        <file>res/brown_1.png</file>
+        <file>res/brown_2.png</file>
+        <file>res/brown_3.png</file>
+        <file>res/brown_4.png</file>
+        <file>res/bullet.png</file>
+        <file>res/DoodleJump.ttf</file>
+        <file>res/doodle_left.png</file>
+        <file>res/doodle_leftjump.png</file>
+        <file>res/doodleR.png</file>
+        <file>res/doodle_right.png</file>
+        <file>res/doodle_rightjump.png</file>
+        <file>res/doodleS.png</file>
+        <file>res/doodleshoot.png</file>
+        <file>res/doodleshootjump.png</file>
+        <file>res/hole.png</file>
+        <file>res/p-green.png</file>
+        <file>res/play-button.png</file>
+        <file>res/topbar.png</file>
+    </qresource>
+</RCC>
